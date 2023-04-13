@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "ci":"node console.js",
     "start": "nodemon index.js"
   },
   "author": "",
